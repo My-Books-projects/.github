@@ -1,5 +1,6 @@
 # 📖 My-Books
 - My-Books는 고객이 책을 검색하고 주문할 수 있는 인터넷 서점입니다.
+- 스프링 기술과 데이터베이스, 클라우드 서비스를 활용한 인터넷 도서 쇼핑몰 프로젝트
 - URL: https://www.my-books.store
 
 ### 개발 기간
@@ -101,6 +102,39 @@
 ![tc2](https://github.com/nhnacademy-be4-My-Books/.github/assets/80580473/26664d9e-0b39-4381-8393-301e9bcf8c4f)
 - Authorization API <br>
 ![td_auth](https://github.com/nhnacademy-be4-My-Books/.github/assets/80580473/0807ebeb-2b10-4153-bbbb-063dfaf1a789)
+
+## Project Management
+---
+> Github 제공하는 `Projects`를 활용하여 전반적인 프로젝트 관리
+
+### Scrum
+- 일주일 마다 Scrum Master 맡아서 매일 9:00 진행 
+- 지난날에 했던 일, 이제 할일, 특이사항등을 정리하여 체계적으로 프로젝트 진행
+
+![image](https://github.com/nhnacademy-be4-My-Books/.github/assets/50399586/06e91164-ccaa-4bfe-adf5-d8e3e5cbd612)
+
+### 일정관리
+
+- RoadMap 활용
+- 일정 진행 상황 관리 및 공유
+
+*Road Map*
+![image](https://github.com/nhnacademy-be4-My-Books/.github/assets/50399586/70f44904-f2fc-4ebf-adcc-5d28dfe03c65)
+
+- Kanban 활용으로 실시간 진행 상황 관리 및 공유
+
+*Kanban*
+
+![image](https://github.com/nhnacademy-be4-My-Books/.github/assets/50399586/c0443572-18b6-49a1-a71d-d6febac7b9f2)
+
+## Spring Rest Docs
+- rest docs 활용으로 사용자 친화적인 문서 제공
+
+![image](https://github.com/nhnacademy-be4-My-Books/.github/assets/50399586/c50ab45e-571e-469e-9a91-e34d5796c075)
+
+
+### RESOURCE : https://www.my-books.store/api-docs
+
 ## 기능
 ### 회원
  - 담당자 : 이승재
@@ -216,3 +250,6 @@
 - logback 사용
 - 각 api 서버에 대해 운영 환경별로 로그 레벨 설정
 - 로그 파일 생성
+
+
+
