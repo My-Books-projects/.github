@@ -114,7 +114,7 @@
     - 활성 , 휴면 , 잠금 , 탈퇴
 ### 인증/인가 
  - 담당자 : 이승재
-  - Interceptor , AOP , JWT 사용
+  - Filter, Interceptor , AOP , JWT 사용
 ### 출판사
 - 담당자: 신재훈, 박민수
 - 출판사 등록, 수정, 삭제
