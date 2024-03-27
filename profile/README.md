@@ -97,8 +97,7 @@
   <img width="2552" alt="스크린샷 2024-03-27 00 17 31" src="https://github.com/nhnacademy-be4-My-Books/.github/assets/80580473/ad52f456-200d-480b-aa6d-8c3ae032bf4d">
 
 ### 테스트 커버리지
-![tc](https://github.com/nhnacademy-be4-My-Books/.github/assets/80580473/82edadba-6483-4992-be7d-83c92afca252)
-
+![tc2](https://github.com/nhnacademy-be4-My-Books/.github/assets/80580473/26664d9e-0b39-4381-8393-301e9bcf8c4f)
 ## 기능
 ### 회원
  - 담당자 : 이승재
